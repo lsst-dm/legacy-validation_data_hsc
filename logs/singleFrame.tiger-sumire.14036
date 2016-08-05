@@ -1,0 +1,8 @@
+2016-08-04T19:58:22.315468: : : Loading config overrride file '/home/pprice/LSST/obs/subaru/config/singleFrameDriver.py'
+2016-08-04T19:58:22.911054: : : Loading config overrride file '/home/pprice/LSST/obs/subaru/config/hsc/singleFrameDriver.py'
+2016-08-04T19:58:23.67150: : : input=/tigress/pprice/validation_data_hsc/DATA
+2016-08-04T19:58:23.67401: : : calib=/tigress/pprice/validation_data_hsc/CALIB
+2016-08-04T19:58:23.68848: : : output=/tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp
+2016-08-04T19:58:23.122398: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-04T19:58:23.123498: : CameraMapper: Loading calibRegistry registry from /tigress/pprice/validation_data_hsc/CALIB/calibRegistry.sqlite3
+2016-08-04T19:58:30.977909: : : Processing 832 targets with a pool of 16 processes...
