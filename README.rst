@@ -7,6 +7,7 @@ through single frame and coadd processing based on engineering test data from
 Hyper Suprime-Cam.
 
 ``raw`` contains 8 raw exposures (112 CCDs per exposure) from HSC:
+
 * visit=903982 field=STRIPE82L filter=HSC-I expTime=30.0 ra=21:19:59.9840 dec=+00:00:00.060
 * visit=904006 field=STRIPE82L filter=HSC-I expTime=30.0 ra=21:19:59.9840 dec=+00:15:00.130
 * visit=904828 field=STRIPE82L filter=HSC-I expTime=60.0 ra=21:19:59.9800 dec=+00:00:00.040
@@ -15,6 +16,8 @@ Hyper Suprime-Cam.
 * visit=903340 field=STRIPE82L filter=HSC-R expTime=30.0 ra=21:19:59.9820 dec=+00:15:00.090
 * visit=904350 field=STRIPE82L filter=HSC-Y expTime=30.0 ra=21:19:59.9800 dec=+00:00:00.080
 * visit=904378 field=STRIPE82L filter=HSC-Y expTime=30.0 ra=21:22:59.9830 dec=+00:15:00.020
+
+Note:
 
 * Visits 903982, 904006, 904828, 904846 are i-band from commissioning run 3 (November 2013),
   with exposure times ranging from 30 sec to 300 sec, and up to a 15 arcmin dither;
@@ -35,13 +38,17 @@ Processing
 Results of the processing are in the rerun "validate_drp".
 
 The stack version is based on the current master, with the following changes:
+
 * a version of GalSim patched for DM-7114 for the multiband stage, to avoid assertion failures.
 * tickets/DM-7117 to prevent multiband failures in matching.
 * tickets/DM-6612 to fix coadding.
 * tickets/DM-7134 to fix singleFrameDriver parallelism.
 * Disabled (unsetup -j) meas_modelfit because it makes everything run MUCH longer.
+
 The versions actually used in the processing are recorded as the "packages" dataset.
 Here's the result of `eups list -s`:
+
+::
 
     activemqcpp           3.9.0.lsst2+3     b2153 b2152 b2151 b2150 setup
     afw                   12.0-16-ga7bfefa+2        b2153 setup
@@ -141,6 +148,8 @@ Here's the result of `eups list -s`:
 
 Here is a list of commands that were run to generate the processed data.
 
+::
+
     # Setup
     export OMP_NUM_THREADS=1
 
@@ -170,10 +179,12 @@ Nothing serious known yet, besides the need to include local versions of product
 
 LOTS of warnings of the form (the particular measurement and coordinates change):
 
-multiBandDriver.measureCoaddSources.measurement WARNING: Error in base_PsfFlux.measure on record 704374639441: 
-  File "src/CoaddPsf.cc", line 235, in virtual std::shared_ptr<lsst::afw::image::Image<double> > lsst::meas::algorithms::CoaddPsf::doComputeKernelImage(const Point2D&, const lsst::afw::image::Color&) const
-    Cannot compute CoaddPsf at point (23775, 18940); no input images at that point. {0}
-lsst::pex::exceptions::InvalidParameterError: 'Cannot compute CoaddPsf at point (23775, 18940); no input images at that point.'
+::
+
+  multiBandDriver.measureCoaddSources.measurement WARNING: Error in base_PsfFlux.measure on record 704374639441: 
+    File "src/CoaddPsf.cc", line 235, in virtual std::shared_ptr<lsst::afw::image::Image<double> > lsst::meas::algorithms::CoaddPsf::doComputeKernelImage(const Point2D&, const lsst::afw::image::Color&) const
+      Cannot compute CoaddPsf at point (23775, 18940); no input images at that point. {0}
+  lsst::pex::exceptions::InvalidParameterError: 'Cannot compute CoaddPsf at point (23775, 18940); no input images at that point.'
 
 At the present, I don't believe these are important, but are just excess chatter
 from the measurement framework.
