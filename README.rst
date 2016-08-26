@@ -35,7 +35,7 @@ single-frame measurement, coadds, and multi-band forced photometry from the coad
 Processing
 ==========
 
-Results of the processing are in the rerun "validate_drp".
+Results of the processing are in the rerun "20160805".
 
 The stack version is based on the current master, with the following changes:
 
@@ -163,13 +163,13 @@ Here is a list of commands that were run to generate the processed data.
     ingestImages.py DATA --mode=link 'raw/*.fits'
 
     # Heavy lifting
-    singleFrameDriver.py DATA --calib CALIB --rerun validate_drp --job singleFrame --cores 16 --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
-    makeDiscreteSkyMap.py DATA --rerun validate_drp --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
+    singleFrameDriver.py DATA --calib CALIB --rerun 20160805 --job singleFrame --cores 16 --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
+    makeDiscreteSkyMap.py DATA --rerun 20160805 --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
     # makeDiscreteSkyMap: tract 0 has corners (321.714, -1.294), (318.915, -1.294), (318.915, 1.504), (321.714, 1.504) (RA, Dec deg) and 15 x 15 patches
-    coaddDriver.py DATA --rerun validate_drp --job coadd --cores 16 --id tract=0 filter=HSC-I --selectId ccd=0..103 visit=903982^904006^904828^904846
-    coaddDriver.py DATA --rerun validate_drp --job coadd --cores 16 --id tract=0 filter=HSC-R --selectId ccd=0..103 visit=903332^903340
-    coaddDriver.py DATA --rerun validate_drp --job coadd --cores 16 --id tract=0 filter=HSC-Y --selectId ccd=0..103 visit=904350^904378
-    multiBandDriver.py DATA --rerun validate_drp --job multiband --cores 16 --id tract=0 filter=HSC-R^HSC-I^HSC-Y -C multiband-config.py
+    coaddDriver.py DATA --rerun 20160805 --job coadd --cores 16 --id tract=0 filter=HSC-I --selectId ccd=0..103 visit=903982^904006^904828^904846
+    coaddDriver.py DATA --rerun 20160805 --job coadd --cores 16 --id tract=0 filter=HSC-R --selectId ccd=0..103 visit=903332^903340
+    coaddDriver.py DATA --rerun 20160805 --job coadd --cores 16 --id tract=0 filter=HSC-Y --selectId ccd=0..103 visit=904350^904378
+    multiBandDriver.py DATA --rerun 20160805 --job multiband --cores 16 --id tract=0 filter=HSC-R^HSC-I^HSC-Y -C multiband-config.py
 
 
 Issues
