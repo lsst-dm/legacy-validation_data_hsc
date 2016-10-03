@@ -1,0 +1,447 @@
+2016-08-05T03:11:48.878417: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:11:48.884440: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:11:48.890206: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:11:48.895681: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:11:54.91203: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 39, 'expTime': 30.0}
+2016-08-05T03:11:54.203455: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 39, 'expTime': 30.0}
+2016-08-05T03:11:54.310183: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 40, 'expTime': 30.0}
+2016-08-05T03:11:54.491277: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 40, 'expTime': 30.0}
+2016-08-05T03:11:54.572718: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 41, 'expTime': 30.0}
+2016-08-05T03:11:54.710065: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 41, 'expTime': 30.0}
+2016-08-05T03:11:54.802888: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 42, 'expTime': 30.0}
+2016-08-05T03:11:54.897104: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 42, 'expTime': 30.0}
+2016-08-05T03:11:54.981918: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 43, 'expTime': 30.0}
+2016-08-05T03:11:55.95289: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 43, 'expTime': 30.0}
+2016-08-05T03:11:55.202130: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 44, 'expTime': 30.0}
+2016-08-05T03:11:55.300219: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 44, 'expTime': 30.0}
+2016-08-05T03:11:55.410029: : coaddDriver: Reading Wcs from {'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 45, 'expTime': 30.0}
+2016-08-05T03:11:56.116927: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:11:56.117199: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:11:56.125243: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:11:56.125621: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:12:03.150164: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:12:03.150437: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:12:03.151678: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:12:03.152055: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:12:08.287295: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,0', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:08.297033: : coaddDriver.makeCoaddTempExp WARNING: No exposures to coadd for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,0', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:08.297386: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,0', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:08.472098: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '12,1', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:08.480334: : coaddDriver.makeCoaddTempExp WARNING: No exposures to coadd for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '12,1', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:08.480565: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '12,1', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:08.655242: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '0,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:08.663530: : coaddDriver.makeCoaddTempExp WARNING: No exposures to coadd for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '0,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:08.663732: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '0,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:09.41177: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:09.49526: : coaddDriver.makeCoaddTempExp WARNING: No exposures to coadd for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:09.49882: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:09.167801: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 2, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:09.168857: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 3, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:09.169630: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 4, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:09.172505: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 7, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:09.173729: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 8, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:09.175331: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 10, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:09.179869: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 16, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:09.237587: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,4', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:09.246501: : coaddDriver.makeCoaddTempExp: Selected 7 calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,4', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:09.249313: : coaddDriver.makeCoaddTempExp: Processing 7 existing calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,4', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:09.249696: : coaddDriver.makeCoaddTempExp: Processing 2 tempExps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,4', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:09.250712: : coaddDriver.makeCoaddTempExp: Processing tempExp 0/2: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904350, 'patch': '6,4'}, tag=set([]))
+2016-08-05T03:12:09.401991: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 3 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 4, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:13.712764: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 3 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 10, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:24.785963: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 3 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 16, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:32.594297: : coaddDriver.makeCoaddTempExp: coaddTempExp has 15688605 good pixels (88.9%)
+2016-08-05T03:12:32.595954: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:12:32.820983: : coaddDriver.makeCoaddTempExp: Processing tempExp 1/2: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '6,4'}, tag=set([]))
+2016-08-05T03:12:32.921835: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 4 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 2, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:34.713278: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 4 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 3, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:39.424880: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 4 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 7, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:40.112964: : coaddDriver.makeCoaddTempExp: Processing calexp 4 of 4 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 8, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:41.967348: : coaddDriver.makeCoaddTempExp: coaddTempExp has 9204118 good pixels (52.2%)
+2016-08-05T03:12:41.969197: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:12:42.163919: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,4', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:55.526932: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 18, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:55.528514: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 19, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:55.536181: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 25, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:55.537766: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 26, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:55.546486: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 33, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:55.548042: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 34, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:55.626735: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '9,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:55.638581: : coaddDriver.makeCoaddTempExp: Selected 6 calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '9,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:55.641444: : coaddDriver.makeCoaddTempExp: Processing 6 existing calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '9,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:55.641749: : coaddDriver.makeCoaddTempExp: Processing 1 tempExps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '9,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:12:55.642660: : coaddDriver.makeCoaddTempExp: Processing tempExp 0/1: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904350, 'patch': '9,5'}, tag=set([]))
+2016-08-05T03:12:55.730051: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 18, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:56.457828: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 19, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:57.762669: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 25, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:12:59.824010: : coaddDriver.makeCoaddTempExp: Processing calexp 4 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 26, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:07.783308: : coaddDriver.makeCoaddTempExp: Processing calexp 5 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 33, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:09.860223: : coaddDriver.makeCoaddTempExp: Processing calexp 6 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 34, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:17.764383: : coaddDriver.makeCoaddTempExp: coaddTempExp has 16657715 good pixels (94.4%)
+2016-08-05T03:13:17.766402: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:13:17.990786: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '9,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:13:37.585738: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 37, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:37.595319: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 45, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:37.604554: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 53, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:37.660951: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:13:37.672921: : coaddDriver.makeCoaddTempExp: Selected 3 calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:13:37.674623: : coaddDriver.makeCoaddTempExp: Processing 3 existing calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:13:37.674920: : coaddDriver.makeCoaddTempExp: Processing 1 tempExps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:13:37.675881: : coaddDriver.makeCoaddTempExp: Processing tempExp 0/1: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904350, 'patch': '13,6'}, tag=set([]))
+2016-08-05T03:13:37.773084: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 3 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 37, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:39.228108: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 3 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 45, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:46.492392: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 3 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 53, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:13:49.773005: : coaddDriver.makeCoaddTempExp: coaddTempExp has 6917251 good pixels (39.2%)
+2016-08-05T03:13:49.775198: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:13:50.64450: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:14:03.45051: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 36, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.46638: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 37, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.54844: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 44, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.56307: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 45, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.59250: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 48, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.60777: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 49, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.64964: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 52, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.66391: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 53, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.69517: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 56, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.70964: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 57, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.75643: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 64, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.76528: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 65, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.100782: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:14:03.108636: : coaddDriver.makeCoaddTempExp: Selected 12 calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:14:03.112359: : coaddDriver.makeCoaddTempExp: Processing 12 existing calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:14:03.112637: : coaddDriver.makeCoaddTempExp: Processing 2 tempExps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:14:03.113281: : coaddDriver.makeCoaddTempExp: Processing tempExp 0/2: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904350, 'patch': '8,7'}, tag=set([]))
+2016-08-05T03:14:03.205887: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 48, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:03.882565: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 49, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:07.656318: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 56, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:09.39062: : coaddDriver.makeCoaddTempExp: Processing calexp 4 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 57, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:20.9035: : coaddDriver.makeCoaddTempExp: Processing calexp 5 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 64, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:21.91747: : coaddDriver.makeCoaddTempExp: Processing calexp 6 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904350, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 65, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:27.549596: : coaddDriver.makeCoaddTempExp: coaddTempExp has 15739251 good pixels (89.2%)
+2016-08-05T03:14:27.550765: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:14:27.793149: : coaddDriver.makeCoaddTempExp: Processing tempExp 1/2: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '8,7'}, tag=set([]))
+2016-08-05T03:14:27.885715: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 36, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:33.851837: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 37, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:39.429603: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 44, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:45.549669: : coaddDriver.makeCoaddTempExp: Processing calexp 4 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 45, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:51.408073: : coaddDriver.makeCoaddTempExp: Processing calexp 5 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 52, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:51.622152: : coaddDriver.makeCoaddTempExp: Processing calexp 6 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 53, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:14:51.813864: : coaddDriver.makeCoaddTempExp: coaddTempExp has 15709209 good pixels (89.1%)
+2016-08-05T03:14:51.817107: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:14:52.35203: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:02.966129: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 56, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:02.971378: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 64, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:02.976106: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 71, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:02.977015: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 72, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:02.996737: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:03.4555: : coaddDriver.makeCoaddTempExp: Selected 4 calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:03.5944: : coaddDriver.makeCoaddTempExp: Processing 4 existing calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:03.6149: : coaddDriver.makeCoaddTempExp: Processing 1 tempExps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:03.6778: : coaddDriver.makeCoaddTempExp: Processing tempExp 0/1: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '3,9'}, tag=set([]))
+2016-08-05T03:15:03.90612: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 4 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 56, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:04.605709: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 4 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 64, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:15.644222: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 4 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 71, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:15.820055: : coaddDriver.makeCoaddTempExp: Processing calexp 4 of 4 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 72, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:27.464329: : coaddDriver.makeCoaddTempExp: coaddTempExp has 15829342 good pixels (89.7%)
+2016-08-05T03:15:27.467232: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:15:27.733281: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:43.315539: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 71, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:43.317055: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 72, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:43.324408: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 78, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:43.325904: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 79, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:43.332274: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 84, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:43.333751: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 85, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:43.355246: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:43.367525: : coaddDriver.makeCoaddTempExp: Selected 6 calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:43.370407: : coaddDriver.makeCoaddTempExp: Processing 6 existing calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:43.370726: : coaddDriver.makeCoaddTempExp: Processing 1 tempExps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:15:43.371651: : coaddDriver.makeCoaddTempExp: Processing tempExp 0/1: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '3,10'}, tag=set([]))
+2016-08-05T03:15:43.454104: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 71, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:43.590084: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 72, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:45.846654: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 78, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:46.3688: : coaddDriver.makeCoaddTempExp: Processing calexp 4 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 79, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:55.538167: : coaddDriver.makeCoaddTempExp: Processing calexp 5 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 84, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:15:55.737697: : coaddDriver.makeCoaddTempExp: Processing calexp 6 of 6 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 85, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:02.628493: : coaddDriver.makeCoaddTempExp: coaddTempExp has 15776237 good pixels (89.4%)
+2016-08-05T03:16:02.630565: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:16:02.835090: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:13.962377: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 84, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:13.963281: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 85, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:13.966611: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 90, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:13.967491: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 91, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:13.970885: : coaddDriver.select: Selecting calexp DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 96, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:13.975723: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:13.983429: : coaddDriver.makeCoaddTempExp: Selected 5 calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:13.985085: : coaddDriver.makeCoaddTempExp: Processing 5 existing calexps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:13.985304: : coaddDriver.makeCoaddTempExp: Processing 1 tempExps for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:13.985926: : coaddDriver.makeCoaddTempExp: Processing tempExp 0/1: id=DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '3,11'}, tag=set([]))
+2016-08-05T03:16:14.66320: : coaddDriver.makeCoaddTempExp: Processing calexp 1 of 5 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 84, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:14.205999: : coaddDriver.makeCoaddTempExp: Processing calexp 2 of 5 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 85, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:16.229174: : coaddDriver.makeCoaddTempExp: Processing calexp 3 of 5 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 90, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:16.523246: : coaddDriver.makeCoaddTempExp: Processing calexp 4 of 5 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 91, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:24.746042: : coaddDriver.makeCoaddTempExp: Processing calexp 5 of 5 for this tempExp: id=DataId(initialdata={'taiObs': '2013-11-03', 'pointing': 672, 'visit': 904378, 'dateObs': '2013-11-03', 'filter': 'HSC-Y', 'field': 'STRIPE82L', 'ccd': 96, 'expTime': 30.0}, tag=set([]))
+2016-08-05T03:16:31.58450: : coaddDriver.makeCoaddTempExp: coaddTempExp has 15529735 good pixels (88.0%)
+2016-08-05T03:16:31.61060: : coaddDriver.makeCoaddTempExp: Persisting deepCoadd_tempExp
+2016-08-05T03:16:31.247381: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '3,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:35.945741: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,12', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:35.952970: : coaddDriver.makeCoaddTempExp WARNING: No exposures to coadd for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,12', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:35.953275: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,12', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:50.313831: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:50.321391: : coaddDriver.makeCoaddTempExp WARNING: No exposures to coadd for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:16:50.321605: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:00.245760: : coaddDriver: tiger-sumire:30318: Start warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:00.252752: : coaddDriver.makeCoaddTempExp WARNING: No exposures to coadd for patch DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:00.252961: : coaddDriver: tiger-sumire:30318: Finished warping DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:01.640234: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,0', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:01.657382: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:17:01.657720: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,0', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:01.758702: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '4,1', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:01.774442: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:17:01.774686: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '4,1', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:01.875646: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,2', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:01.890676: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:17:01.890922: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,2', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:02.40093: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:17:02.40280: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:17:02.41106: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:17:02.41344: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:17:06.475851: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:06.490467: : coaddDriver.assembleCoadd: Coadding 1 exposures
+2016-08-05T03:17:08.452832: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904350, 'patch': '6,3'}, tag=set([])) = 0.030
+2016-08-05T03:17:08.453846: : coaddDriver.assembleCoadd: Found 1 deepCoadd_tempExp
+2016-08-05T03:17:08.453944: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:17:20.910403: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:17:39.165824: : coaddDriver.assembleCoadd.clipDetection: Detected 0 positive sources to 2 sigma.
+2016-08-05T03:17:39.167388: : coaddDriver.assembleCoadd.clipDetection: Detected 0 negative sources to 2 sigma
+2016-08-05T03:17:39.275616: : coaddDriver.assembleCoadd: Found 0 potential clipped objects
+2016-08-05T03:17:39.430693: : coaddDriver.assembleCoadd: Found 0 clipped objects
+2016-08-05T03:17:39.596641: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:17:52.752008: : coaddDriver.assembleCoadd.interpImage: Creating psf model for interpolation from fwhm(pixels) = 3.0 [default]
+2016-08-05T03:17:52.971127: : coaddDriver.assembleCoadd.interpImage: fallbackValueType MEDIAN has been set to 0.0465
+2016-08-05T03:17:53.240018: : coaddDriver.assembleCoadd.interpImage: Interpolated over 2029 NO_DATA pixels.
+2016-08-05T03:17:53.340053: : coaddDriver.assembleCoadd WARNING: Unable to read brightObjectMask for DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,3', 'tract': 0}, tag=set([])): No such FITS catalog file: /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/deepCoadd/BrightObjectMasks/0/BrightObjectMask-0-6,3-HSC-Y.reg
+2016-08-05T03:17:53.340283: : coaddDriver.assembleCoadd WARNING: Unable to apply bright object mask: none supplied
+2016-08-05T03:17:53.340386: : coaddDriver.assembleCoadd: Persisting deepCoadd
+2016-08-05T03:17:53.618395: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:53.618606: : coaddDriver: tiger-sumire:30318: Start detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:53.931482: : coaddDriver.detectCoaddSources: Renormalizing variance by 1.121580
+2016-08-05T03:17:57.725876: : coaddDriver.detectCoaddSources.detection: Detected 197 positive sources to 5 sigma.
+2016-08-05T03:17:58.77377: : coaddDriver.detectCoaddSources.detection: Resubtracting the background after object detection
+2016-08-05T03:17:59.44053: : coaddDriver: tiger-sumire:30318: Finished detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,3', 'tract': 0}, tag=set([]))
+2016-08-05T03:17:59.44212: : coaddDriver.assembleCoadd: Persisting deepCoadd_calexp
+2016-08-05T03:17:59.454451: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:17:59.454782: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:17:59.460416: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:17:59.461043: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:18:03.521462: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,4', 'tract': 0}, tag=set([]))
+2016-08-05T03:18:03.541944: : coaddDriver.assembleCoadd: Coadding 1 exposures
+2016-08-05T03:18:03.543875: : coaddDriver.assembleCoadd WARNING: Could not find deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904350, 'patch': '13,4'}, tag=set([])); skipping it
+2016-08-05T03:18:03.544492: : coaddDriver.assembleCoadd: Found 0 deepCoadd_tempExp
+2016-08-05T03:18:03.544805: : coaddDriver.assembleCoadd WARNING: No coadd temporary exposures found
+2016-08-05T03:18:03.545571: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,4', 'tract': 0}, tag=set([]))
+2016-08-05T03:18:03.723904: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:18:03.724312: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:18:03.726155: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:18:03.726941: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:18:07.21760: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:18:07.34250: : coaddDriver.assembleCoadd: Coadding 5 exposures
+2016-08-05T03:18:08.527144: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '2,5'}, tag=set([])) = 0.035
+2016-08-05T03:18:08.528116: : coaddDriver.assembleCoadd: Found 1 deepCoadd_tempExp
+2016-08-05T03:18:08.528374: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:18:19.613108: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:18:45.907705: : coaddDriver.assembleCoadd.clipDetection: Detected 0 positive sources to 2 sigma.
+2016-08-05T03:18:45.908742: : coaddDriver.assembleCoadd.clipDetection: Detected 0 negative sources to 2 sigma
+2016-08-05T03:18:46.45532: : coaddDriver.assembleCoadd: Found 0 potential clipped objects
+2016-08-05T03:18:46.273001: : coaddDriver.assembleCoadd: Found 0 clipped objects
+2016-08-05T03:18:46.580609: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:18:58.749303: : coaddDriver.assembleCoadd.interpImage: Creating psf model for interpolation from fwhm(pixels) = 3.0 [default]
+2016-08-05T03:18:59.233494: : coaddDriver.assembleCoadd.interpImage: fallbackValueType MEDIAN has been set to 0.0511
+2016-08-05T03:18:59.660270: : coaddDriver.assembleCoadd.interpImage: Interpolated over 3223 NO_DATA pixels.
+2016-08-05T03:18:59.765234: : coaddDriver.assembleCoadd WARNING: Unable to read brightObjectMask for DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,5', 'tract': 0}, tag=set([])): No such FITS catalog file: /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/deepCoadd/BrightObjectMasks/0/BrightObjectMask-0-2,5-HSC-Y.reg
+2016-08-05T03:18:59.776375: : coaddDriver.assembleCoadd WARNING: Unable to apply bright object mask: none supplied
+2016-08-05T03:18:59.776554: : coaddDriver.assembleCoadd: Persisting deepCoadd
+2016-08-05T03:19:00.84773: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:19:00.84947: : coaddDriver: tiger-sumire:30318: Start detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:19:00.552526: : coaddDriver.detectCoaddSources: Renormalizing variance by 1.129167
+2016-08-05T03:19:03.874297: : coaddDriver.detectCoaddSources.detection: Detected 823 positive sources to 5 sigma.
+2016-08-05T03:19:04.672490: : coaddDriver.detectCoaddSources.detection: Resubtracting the background after object detection
+2016-08-05T03:19:05.699569: : coaddDriver: tiger-sumire:30318: Finished detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,5', 'tract': 0}, tag=set([]))
+2016-08-05T03:19:05.699717: : coaddDriver.assembleCoadd: Persisting deepCoadd_calexp
+2016-08-05T03:19:06.129168: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:19:06.129694: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:19:06.131104: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:19:06.131840: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:19:09.364289: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:19:09.379593: : coaddDriver.assembleCoadd: Coadding 12 exposures
+2016-08-05T03:19:10.954054: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '5,6'}, tag=set([])) = 0.053
+2016-08-05T03:19:12.366972: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904350, 'patch': '5,6'}, tag=set([])) = 0.043
+2016-08-05T03:19:12.368067: : coaddDriver.assembleCoadd: Found 2 deepCoadd_tempExp
+2016-08-05T03:19:12.368387: : coaddDriver.assembleCoadd: Assembling 2 deepCoadd_tempExp
+2016-08-05T03:19:25.945273: : coaddDriver.assembleCoadd: Assembling 2 deepCoadd_tempExp
+2016-08-05T03:20:00.168241: : coaddDriver.assembleCoadd.clipDetection: Detected 0 positive sources to 2 sigma.
+2016-08-05T03:20:00.171315: : coaddDriver.assembleCoadd.clipDetection: Detected 0 negative sources to 2 sigma
+2016-08-05T03:20:00.312203: : coaddDriver.assembleCoadd: Found 0 potential clipped objects
+2016-08-05T03:20:00.864232: : coaddDriver.assembleCoadd: Found 0 clipped objects
+2016-08-05T03:20:01.644939: : coaddDriver.assembleCoadd: Assembling 2 deepCoadd_tempExp
+2016-08-05T03:20:16.901382: : coaddDriver.assembleCoadd.interpImage: Creating psf model for interpolation from fwhm(pixels) = 3.0 [default]
+2016-08-05T03:20:17.406844: : coaddDriver.assembleCoadd.interpImage: fallbackValueType MEDIAN has been set to 0.0350
+2016-08-05T03:20:17.424036: : coaddDriver.assembleCoadd.interpImage: Interpolated over 207 NO_DATA pixels.
+2016-08-05T03:20:17.542481: : coaddDriver.assembleCoadd WARNING: Unable to read brightObjectMask for DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,6', 'tract': 0}, tag=set([])): No such FITS catalog file: /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/deepCoadd/BrightObjectMasks/0/BrightObjectMask-0-5,6-HSC-Y.reg
+2016-08-05T03:20:17.542659: : coaddDriver.assembleCoadd WARNING: Unable to apply bright object mask: none supplied
+2016-08-05T03:20:17.542752: : coaddDriver.assembleCoadd: Persisting deepCoadd
+2016-08-05T03:20:17.853664: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:20:17.855080: : coaddDriver: tiger-sumire:30318: Start detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:20:18.535708: : coaddDriver.detectCoaddSources: Renormalizing variance by 1.134586
+2016-08-05T03:20:22.325425: : coaddDriver.detectCoaddSources.detection: Detected 1237 positive sources to 5 sigma.
+2016-08-05T03:20:23.281242: : coaddDriver.detectCoaddSources.detection: Resubtracting the background after object detection
+2016-08-05T03:20:24.481441: : coaddDriver: tiger-sumire:30318: Finished detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,6', 'tract': 0}, tag=set([]))
+2016-08-05T03:20:24.481760: : coaddDriver.assembleCoadd: Persisting deepCoadd_calexp
+2016-08-05T03:20:24.989853: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:20:24.990134: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:20:24.992545: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:20:24.993171: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:20:28.105443: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:20:28.141873: : coaddDriver.assembleCoadd: Coadding 12 exposures
+2016-08-05T03:20:30.130103: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904350, 'patch': '8,7'}, tag=set([])) = 0.067
+2016-08-05T03:20:31.619005: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '8,7'}, tag=set([])) = 0.039
+2016-08-05T03:20:31.620126: : coaddDriver.assembleCoadd: Found 2 deepCoadd_tempExp
+2016-08-05T03:20:31.620242: : coaddDriver.assembleCoadd: Assembling 2 deepCoadd_tempExp
+2016-08-05T03:20:45.757925: : coaddDriver.assembleCoadd: Assembling 2 deepCoadd_tempExp
+2016-08-05T03:21:18.654049: : coaddDriver.assembleCoadd.clipDetection: Detected 0 positive sources to 2 sigma.
+2016-08-05T03:21:18.655235: : coaddDriver.assembleCoadd.clipDetection: Detected 0 negative sources to 2 sigma
+2016-08-05T03:21:18.781372: : coaddDriver.assembleCoadd: Found 0 potential clipped objects
+2016-08-05T03:21:19.193928: : coaddDriver.assembleCoadd: Found 0 clipped objects
+2016-08-05T03:21:19.883512: : coaddDriver.assembleCoadd: Assembling 2 deepCoadd_tempExp
+2016-08-05T03:21:33.529771: : coaddDriver.assembleCoadd.interpImage: Creating psf model for interpolation from fwhm(pixels) = 3.0 [default]
+2016-08-05T03:21:34.27289: : coaddDriver.assembleCoadd.interpImage: fallbackValueType MEDIAN has been set to 0.0572
+2016-08-05T03:21:34.70250: : coaddDriver.assembleCoadd.interpImage: Interpolated over 385 NO_DATA pixels.
+2016-08-05T03:21:34.162964: : coaddDriver.assembleCoadd WARNING: Unable to read brightObjectMask for DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([])): No such FITS catalog file: /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/deepCoadd/BrightObjectMasks/0/BrightObjectMask-0-8,7-HSC-Y.reg
+2016-08-05T03:21:34.163131: : coaddDriver.assembleCoadd WARNING: Unable to apply bright object mask: none supplied
+2016-08-05T03:21:34.163223: : coaddDriver.assembleCoadd: Persisting deepCoadd
+2016-08-05T03:21:34.447166: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:21:34.447385: : coaddDriver: tiger-sumire:30318: Start detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:21:35.39496: : coaddDriver.detectCoaddSources: Renormalizing variance by 1.147633
+2016-08-05T03:21:39.99903: : coaddDriver.detectCoaddSources.detection: Detected 1119 positive sources to 5 sigma.
+2016-08-05T03:21:40.94264: : coaddDriver.detectCoaddSources.detection: Resubtracting the background after object detection
+2016-08-05T03:21:41.341590: : coaddDriver: tiger-sumire:30318: Finished detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '8,7', 'tract': 0}, tag=set([]))
+2016-08-05T03:21:41.341742: : coaddDriver.assembleCoadd: Persisting deepCoadd_calexp
+2016-08-05T03:21:41.854722: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:21:41.855025: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:21:41.856263: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:21:41.856701: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:21:45.84646: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:21:45.105005: : coaddDriver.assembleCoadd: Coadding 3 exposures
+2016-08-05T03:21:46.517264: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '2,9'}, tag=set([])) = 0.046
+2016-08-05T03:21:46.517896: : coaddDriver.assembleCoadd: Found 1 deepCoadd_tempExp
+2016-08-05T03:21:46.517973: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:21:57.549545: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:22:24.984284: : coaddDriver.assembleCoadd.clipDetection: Detected 0 positive sources to 2 sigma.
+2016-08-05T03:22:24.989360: : coaddDriver.assembleCoadd.clipDetection: Detected 0 negative sources to 2 sigma
+2016-08-05T03:22:25.135722: : coaddDriver.assembleCoadd: Found 0 potential clipped objects
+2016-08-05T03:22:25.353925: : coaddDriver.assembleCoadd: Found 0 clipped objects
+2016-08-05T03:22:25.726582: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:22:37.4844: : coaddDriver.assembleCoadd.interpImage: Creating psf model for interpolation from fwhm(pixels) = 3.0 [default]
+2016-08-05T03:22:37.463847: : coaddDriver.assembleCoadd.interpImage: fallbackValueType MEDIAN has been set to 0.0281
+2016-08-05T03:22:37.546645: : coaddDriver.assembleCoadd.interpImage: Interpolated over 769 NO_DATA pixels.
+2016-08-05T03:22:37.671525: : coaddDriver.assembleCoadd WARNING: Unable to read brightObjectMask for DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,9', 'tract': 0}, tag=set([])): No such FITS catalog file: /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/deepCoadd/BrightObjectMasks/0/BrightObjectMask-0-2,9-HSC-Y.reg
+2016-08-05T03:22:37.671974: : coaddDriver.assembleCoadd WARNING: Unable to apply bright object mask: none supplied
+2016-08-05T03:22:37.672232: : coaddDriver.assembleCoadd: Persisting deepCoadd
+2016-08-05T03:22:37.937942: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:22:37.938078: : coaddDriver: tiger-sumire:30318: Start detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:22:38.434296: : coaddDriver.detectCoaddSources: Renormalizing variance by 1.195718
+2016-08-05T03:22:41.114164: : coaddDriver.detectCoaddSources.detection: Detected 1003 positive sources to 5 sigma.
+2016-08-05T03:22:42.12653: : coaddDriver.detectCoaddSources.detection: Resubtracting the background after object detection
+2016-08-05T03:22:43.3364: : coaddDriver: tiger-sumire:30318: Finished detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,9', 'tract': 0}, tag=set([]))
+2016-08-05T03:22:43.3516: : coaddDriver.assembleCoadd: Persisting deepCoadd_calexp
+2016-08-05T03:22:43.428703: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:22:43.428987: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:22:43.430116: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:22:43.430453: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:22:47.58382: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:22:47.72437: : coaddDriver.assembleCoadd: Coadding 3 exposures
+2016-08-05T03:22:48.545497: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '2,10'}, tag=set([])) = 0.043
+2016-08-05T03:22:48.546368: : coaddDriver.assembleCoadd: Found 1 deepCoadd_tempExp
+2016-08-05T03:22:48.546482: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:22:59.541317: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:23:23.72438: : coaddDriver.assembleCoadd.clipDetection: Detected 0 positive sources to 2 sigma.
+2016-08-05T03:23:23.74257: : coaddDriver.assembleCoadd.clipDetection: Detected 0 negative sources to 2 sigma
+2016-08-05T03:23:23.182537: : coaddDriver.assembleCoadd: Found 0 potential clipped objects
+2016-08-05T03:23:23.400287: : coaddDriver.assembleCoadd: Found 0 clipped objects
+2016-08-05T03:23:23.693823: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:23:36.905995: : coaddDriver.assembleCoadd.interpImage: Creating psf model for interpolation from fwhm(pixels) = 3.0 [default]
+2016-08-05T03:23:37.366947: : coaddDriver.assembleCoadd.interpImage: fallbackValueType MEDIAN has been set to 0.0445
+2016-08-05T03:23:37.532162: : coaddDriver.assembleCoadd.interpImage: Interpolated over 1413 NO_DATA pixels.
+2016-08-05T03:23:37.638946: : coaddDriver.assembleCoadd WARNING: Unable to read brightObjectMask for DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,10', 'tract': 0}, tag=set([])): No such FITS catalog file: /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/deepCoadd/BrightObjectMasks/0/BrightObjectMask-0-2,10-HSC-Y.reg
+2016-08-05T03:23:37.639288: : coaddDriver.assembleCoadd WARNING: Unable to apply bright object mask: none supplied
+2016-08-05T03:23:37.639499: : coaddDriver.assembleCoadd: Persisting deepCoadd
+2016-08-05T03:23:37.927017: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:23:37.927317: : coaddDriver: tiger-sumire:30318: Start detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:23:38.499845: : coaddDriver.detectCoaddSources: Renormalizing variance by 1.122254
+2016-08-05T03:23:41.963877: : coaddDriver.detectCoaddSources.detection: Detected 1062 positive sources to 5 sigma.
+2016-08-05T03:23:42.937425: : coaddDriver.detectCoaddSources.detection: Resubtracting the background after object detection
+2016-08-05T03:23:44.17754: : coaddDriver: tiger-sumire:30318: Finished detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:23:44.18052: : coaddDriver.assembleCoadd: Persisting deepCoadd_calexp
+2016-08-05T03:23:44.441930: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:23:44.453519: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:23:44.453932: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:23:44.556516: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '14,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:23:44.597807: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:23:44.598259: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '14,10', 'tract': 0}, tag=set([]))
+2016-08-05T03:23:44.754821: : CameraMapper WARNING: Calibration root directory not found: /tigress/pprice/validation_data_hsc/DATA/CALIB
+2016-08-05T03:23:44.755458: : CameraMapper: Loading registry registry from /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/_parent/registry.sqlite3
+2016-08-05T03:23:44.756905: : CameraMapper: Unable to locate calibRegistry registry in root: /tigress/pprice/validation_data_hsc/DATA/CALIB/calibRegistry.sqlite3
+2016-08-05T03:23:44.757617: : CameraMapper: Unable to locate calibRegistry registry in current dir: ./calibRegistry.sqlite3
+2016-08-05T03:23:48.555028: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:23:48.578256: : coaddDriver.assembleCoadd: Coadding 2 exposures
+2016-08-05T03:23:49.763205: : coaddDriver.assembleCoadd: Weight of deepCoadd_tempExp DataId(initialdata={'filter': 'HSC-Y', 'tract': 0, 'visit': 904378, 'patch': '2,11'}, tag=set([])) = 0.038
+2016-08-05T03:23:49.764051: : coaddDriver.assembleCoadd: Found 1 deepCoadd_tempExp
+2016-08-05T03:23:49.764183: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:24:01.334205: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:24:22.494647: : coaddDriver.assembleCoadd.clipDetection: Detected 0 positive sources to 2 sigma.
+2016-08-05T03:24:22.497459: : coaddDriver.assembleCoadd.clipDetection: Detected 0 negative sources to 2 sigma
+2016-08-05T03:24:22.639286: : coaddDriver.assembleCoadd: Found 0 potential clipped objects
+2016-08-05T03:24:22.865789: : coaddDriver.assembleCoadd: Found 0 clipped objects
+2016-08-05T03:24:23.171245: : coaddDriver.assembleCoadd: Assembling 1 deepCoadd_tempExp
+2016-08-05T03:24:36.945530: : coaddDriver.assembleCoadd.interpImage: Creating psf model for interpolation from fwhm(pixels) = 3.0 [default]
+2016-08-05T03:24:37.195371: : coaddDriver.assembleCoadd.interpImage: fallbackValueType MEDIAN has been set to 0.0464
+2016-08-05T03:24:37.536379: : coaddDriver.assembleCoadd.interpImage: Interpolated over 2940 NO_DATA pixels.
+2016-08-05T03:24:37.641592: : coaddDriver.assembleCoadd WARNING: Unable to read brightObjectMask for DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,11', 'tract': 0}, tag=set([])): No such FITS catalog file: /tigress/pprice/validation_data_hsc/DATA/rerun/validate_drp/deepCoadd/BrightObjectMasks/0/BrightObjectMask-0-2,11-HSC-Y.reg
+2016-08-05T03:24:37.641760: : coaddDriver.assembleCoadd WARNING: Unable to apply bright object mask: none supplied
+2016-08-05T03:24:37.641848: : coaddDriver.assembleCoadd: Persisting deepCoadd
+2016-08-05T03:24:37.868548: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:37.868690: : coaddDriver: tiger-sumire:30318: Start detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:38.117178: : coaddDriver.detectCoaddSources: Renormalizing variance by 1.117807
+2016-08-05T03:24:40.219493: : coaddDriver.detectCoaddSources.detection: Detected 504 positive sources to 5 sigma.
+2016-08-05T03:24:40.782276: : coaddDriver.detectCoaddSources.detection: Resubtracting the background after object detection
+2016-08-05T03:24:41.692720: : coaddDriver: tiger-sumire:30318: Finished detection on DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,11', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:41.692866: : coaddDriver.assembleCoadd: Persisting deepCoadd_calexp
+2016-08-05T03:24:42.48320: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.59684: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:42.100381: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.201524: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.213051: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:42.213575: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '6,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.314639: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '7,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.332720: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:42.339345: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '7,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.440603: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '12,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.466445: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:42.467100: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '12,13', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.568263: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.591422: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:42.591990: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '1,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.693481: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.706005: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:42.706571: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '2,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.807701: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.833361: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:42.833848: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '5,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.934647: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '10,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:42.952858: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:42.959445: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '10,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:43.60698: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:43.78863: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:43.84752: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '13,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:43.185809: : coaddDriver: tiger-sumire:30318: Start coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '14,14', 'tract': 0}, tag=set([]))
+2016-08-05T03:24:43.212134: : coaddDriver.assembleCoadd WARNING: No exposures to coadd
+2016-08-05T03:24:43.212630: : coaddDriver: tiger-sumire:30318: Finished coadding DataId(initialdata={'filter': 'HSC-Y', 'patch': '14,14', 'tract': 0}, tag=set([]))
