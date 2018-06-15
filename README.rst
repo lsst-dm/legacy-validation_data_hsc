@@ -35,19 +35,11 @@ single-frame measurement, coadds, and multi-band forced photometry from the coad
 Processing
 ==========
 
-Results of the processing are in the rerun "20160805".
+Results of the processing are 'DATA'.
 
-The stack version is based on the current master, with the following changes:
+The stack version is based on v16.0.rc1
 
-* a version of GalSim patched for DM-7114 for the multiband stage, to avoid assertion failures.
-* tickets/DM-7117 to prevent multiband failures in matching.
-* tickets/DM-6612 to fix coadding.
-* tickets/DM-7134 to fix singleFrameDriver parallelism.
-* Disabled (unsetup -j) meas_modelfit because it makes everything run MUCH longer.
-
-The versions actually used in the processing are recorded in data/config/packages.pickle
-
-Here is a list of commands that were run to generate the processed data.
+Here the a list of commands that were run to generate the processed data.
 
 ::
     setup obs_subaru -t w_2018_22  # which was v16.0.rc1
@@ -73,6 +65,8 @@ Here is a list of commands that were run to generate the processed data.
     coaddDriver.py DATA --output DATA --job coadd --cores 16 --id tract=0 filter=HSC-Y --selectId ccd=0..103 visit=904350^904378
     multiBandDriver.py DATA --output DATA --job multiband --cores 16 --id tract=0 filter=HSC-R^HSC-I^HSC-Y -C multiband-config.py
 
+
+Specifically, see `reprocess.sh` for the shell command, and `reprocess.sl` for the trivial SLURM wrapper.
 
 Issues
 ======
