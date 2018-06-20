@@ -4,3 +4,5 @@ config.makeCoaddTempExp.doApplySkyCorr=False
 
 config.assembleCoadd.doApplyUberCal=False 
 config.assembleCoadd.assembleStaticSkyModel.doApplyUberCal=False
+
+config.assembleCoadd.doAttachTransmissionCurve=False
