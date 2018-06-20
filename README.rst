@@ -57,13 +57,13 @@ Here the a list of commands that were run to generate the processed data.
     ingestImages.py DATA --mode=link 'raw/*.fits'
 
     # Heavy lifting
-    singleFrameDriver.py DATA --calib CALIB --output DATA -C config/hscConfig.py --job singleFrame --cores 16 --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
+    singleFrameDriver.py DATA --calib CALIB --output DATA -C config/singleFrameDriverConfig.py --job singleFrame --cores 16 --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
     makeDiscreteSkyMap.py DATA --output DATA --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
     # makeDiscreteSkyMap: tract 0 has corners (321.714, -1.294), (318.915, -1.294), (318.915, 1.504), (321.714, 1.504) (RA, Dec deg) and 15 x 15 patches
-    coaddDriver.py DATA --output DATA --job coadd --cores 16 --id tract=0 filter=HSC-I --selectId ccd=0..103 visit=903982^904006^904828^904846
-    coaddDriver.py DATA --output DATA --job coadd --cores 16 --id tract=0 filter=HSC-R --selectId ccd=0..103 visit=903332^903340
-    coaddDriver.py DATA --output DATA --job coadd --cores 16 --id tract=0 filter=HSC-Y --selectId ccd=0..103 visit=904350^904378
-    multiBandDriver.py DATA --output DATA --job multiband --cores 16 --id tract=0 filter=HSC-R^HSC-I^HSC-Y -C multiband-config.py
+    coaddDriver.py DATA --output DATA --job coadd -C config/coaddConfig.py --cores 16 --id tract=0 filter=HSC-I --selectId ccd=0..103 visit=903982^904006^904828^904846
+    coaddDriver.py DATA --output DATA --job coadd -C config/coaddConfig.py --cores 16 --id tract=0 filter=HSC-R --selectId ccd=0..103 visit=903332^903340
+    coaddDriver.py DATA --output DATA --job coadd -C config/coaddConfig.py --cores 16 --id tract=0 filter=HSC-Y --selectId ccd=0..103 visit=904350^904378
+    multiBandDriver.py DATA --output DATA --job multiband -C config/multiBandConfig.py --cores 16 --id tract=0 filter=HSC-R^HSC-I^HSC-Y
 
 
 Specifically, see `reprocess.sh` for the shell command, and `reprocess.sl` for the trivial SLURM wrapper.
