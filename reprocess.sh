@@ -1,6 +1,9 @@
 #!/bin/bash
 
 source /software/lsstsw/stack/loadLSST.bash
+# Pick up pipe_drivers in lsst_distrib
+setup lsst_distrib -t w_2018_22  # which was v16.0.rc1
+# Set up our specific camera
 setup obs_subaru -t w_2018_22  # which was v16.0.rc1
 
 # Setup
