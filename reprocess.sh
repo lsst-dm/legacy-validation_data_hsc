@@ -20,7 +20,7 @@ echo lsst.obs.hsc.HscMapper > "${DATA}"/_mapper
 ingestImages.py "${DATA}" --mode=link 'raw/*.fits'
 
 # Heavy lifting
-singleFrameDriver.py "${DATA}" --calib CALIB --output "${DATA}" -C config/singleFrameDriverconfig.py --job singleFrame --cores 16 --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
+singleFrameDriver.py "${DATA}" --calib CALIB --output "${DATA}" -C config/singleFrameDriverConfig.py --job singleFrame --cores 16 --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
 makeDiscreteSkyMap.py "${DATA}" --output "${DATA}" --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
 # makeDiscreteSkyMap: tract 0 has corners (321.714, -1.294), (318.915, -1.294), (318.915, 1.504), (321.714, 1.504) (RA, Dec deg) and 15 x 15 patches
 coaddDriver.py "${DATA}" --calib CALIB --output "${DATA}" -C config/coaddConfig.py --job coadd --cores 16 --id tract=0 filter=HSC-I --selectId ccd=0..103 visit=903982^904006^904828^904846
