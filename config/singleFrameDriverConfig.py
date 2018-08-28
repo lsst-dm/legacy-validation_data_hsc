@@ -6,7 +6,7 @@ loading Pan-STARRS1 reference catalogs
 from lsst.pipe.tasks.setConfigFromEups import setPhotocalConfigFromEups, setAstrometryConfigFromEups
 
 # We do not have transmission curves attached to our validation repos yet
-config.processCcd.isr.doAttachTransmissionCurve = False
+config.processCcd.isr.doAttachTransmissionCurve = True
 # these commissioning data do not have the correct header info to apply the stray light correction
 config.processCcd.isr.doStrayLight = False
 
