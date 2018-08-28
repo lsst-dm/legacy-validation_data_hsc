@@ -19,6 +19,9 @@ mkdir "${DATA}"
 echo lsst.obs.hsc.HscMapper > "${DATA}"/_mapper
 ingestImages.py "${DATA}" --mode=link 'raw/*.fits'
 
+# Copy in the HSC transmission files (atmosphere+optics+sensors).
+cp -pr transmission "${DATA}"
+
 # Heavy lifting
 singleFrameDriver.py "${DATA}" --calib CALIB --output "${DATA}" -C config/singleFrameDriverConfig.py --job singleFrame --cores 16 --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
 makeDiscreteSkyMap.py "${DATA}" --output "${DATA}" --id ccd=0..103 visit=903982^904006^904828^904846^903332^903340^904350^904378
