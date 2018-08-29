@@ -32,6 +32,9 @@ run 3, so we use some from March 2014.
 ``DATA`` is a Butler repo containing both the ``raw`` data and the results of running
 single-frame measurement, coadds, and multi-band forced photometry from the coadd detections.
 
+``ref_cats`` HTM indexed catalog files from both SDSS and Pan-Starrs for astrometric and
+photometric calibration.  
+
 Processing
 ==========
 
