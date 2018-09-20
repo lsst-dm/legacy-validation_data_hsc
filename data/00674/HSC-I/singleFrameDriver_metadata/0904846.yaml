@@ -1,0 +1,1736 @@
+!<lsst.daf.base.PropertySet>
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndVoluntaryContextSwitches
+  - LongLong
+  - [41217, 41217, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndUserTime
+  - Double
+  - [6952.81824, 6952.999677, 6953.180667]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndInvoluntaryContextSwitches
+  - LongLong
+  - [4585, 4585, 4585]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndCpuTime
+  - Double
+  - [7073.28, 7073.46, 7073.65]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndUtc
+  - String
+  - ['2018-09-07T22:55:35.420670', '2018-09-07T22:55:35.602125', '2018-09-07T22:55:35.783133']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartSystemTime
+  - Double
+  - [120.473104, 120.473104, 120.473104]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndMinorPageFaults
+  - LongLong
+  - [10223007, 10223023, 10223026]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartCpuTime
+  - Double
+  - [7073.14, 7073.33, 7073.51]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartUserTime
+  - Double
+  - [6952.675802, 6952.863891, 6953.045918]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartUtc
+  - String
+  - ['2018-09-07T22:55:35.278219', '2018-09-07T22:55:35.466327', '2018-09-07T22:55:35.648373']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndSystemTime
+  - Double
+  - [120.473104, 120.473104, 120.473104]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartMinorPageFaults
+  - LongLong
+  - [10222968, 10223023, 10223025]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartInvoluntaryContextSwitches
+  - LongLong
+  - [4585, 4585, 4585]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:wcsFitter.fitWcsStartVoluntaryContextSwitches
+  - LongLong
+  - [41217, 41217, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndInvoluntaryContextSwitches
+  - LongLong
+  - [4585, 4585, 4585]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndVoluntaryContextSwitches
+  - LongLong
+  - [41217, 41217, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndCpuTime
+  - Double
+  - [7073.14, 7073.33, 7073.51]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndVoluntaryContextSwitches
+  - LongLong
+  - [41217, 41217, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndMinorPageFaults
+  - LongLong
+  - [10222961, 10223022, 10223025]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndSystemTime
+  - Double
+  - [120.473104, 120.473104, 120.473104]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartMinorPageFaults
+  - LongLong
+  - [10222860, 10223021, 10223024]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndSystemTime
+  - Double
+  - [120.473104, 120.473104, 120.473104]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartVoluntaryContextSwitches
+  - LongLong
+  - [41217, 41217, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndInvoluntaryContextSwitches
+  - LongLong
+  - [4585, 4585, 4585]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartCpuTime
+  - Double
+  - [7064.18, 7073.28, 7073.47]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartCpuTime
+  - Double
+  - [7064.18, 7073.28, 7073.47]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndUserTime
+  - Double
+  - [6952.675635, 6952.863741, 6953.045769]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartUserTime
+  - Double
+  - [6943.718817, 6952.818848, 6953.000256]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartUtc
+  - String
+  - ['2018-09-07T22:55:26.320318', '2018-09-07T22:55:35.421280', '2018-09-07T22:55:35.602705']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndUtc
+  - String
+  - ['2018-09-07T22:55:35.278051', '2018-09-07T22:55:35.466176', '2018-09-07T22:55:35.648222']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartSystemTime
+  - Double
+  - [120.473104, 120.473104, 120.473104]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartUserTime
+  - Double
+  - [6943.719629, 6952.819542, 6953.000887]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartSystemTime
+  - Double
+  - [120.473104, 120.473104, 120.473104]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartInvoluntaryContextSwitches
+  - LongLong
+  - [4581, 4585, 4585]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartUtc
+  - String
+  - ['2018-09-07T22:55:26.321129', '2018-09-07T22:55:35.421972', '2018-09-07T22:55:35.603336']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndUtc
+  - String
+  - ['2018-09-07T22:55:35.275894', '2018-09-07T22:55:35.464493', '2018-09-07T22:55:35.646694']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndCpuTime
+  - Double
+  - [7073.14, 7073.33, 7073.51]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartMinorPageFaults
+  - LongLong
+  - [10222938, 10223022, 10223025]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndUserTime
+  - Double
+  - [6952.673486, 6952.86206, 6953.044242]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartInvoluntaryContextSwitches
+  - LongLong
+  - [4581, 4585, 4585]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesEndMinorPageFaults
+  - LongLong
+  - [10222966, 10223023, 10223025]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchEndBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher.matchObjectsToSourcesStartBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry:matcher._doMatchStartVoluntaryContextSwitches
+  - LongLong
+  - [41217, 41217, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndUserTime',
+  Double, 6943.718159]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndInvoluntaryContextSwitches',
+  LongLong, 4581]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndMinorPageFaults',
+  LongLong, 10222838]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndUserTime',
+  Double, 6943.620273]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndCpuTime',
+  Double, 7064.09]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndInvoluntaryContextSwitches',
+  LongLong, 4581]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndUtc',
+  String, '2018-09-07T22:55:26.319659']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndUtc',
+  String, '2018-09-07T22:55:26.221762']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndMinorPageFaults',
+  LongLong, 10222826]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartMinorPageFaults',
+  LongLong, 10222262]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartUtc',
+  String, '2018-09-07T22:55:25.856071']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartUtc',
+  String, '2018-09-07T22:55:25.856628']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartInvoluntaryContextSwitches',
+  LongLong, 4580]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndCpuTime',
+  Double, 7064.18]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartUserTime',
+  Double, 6943.254633]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartCpuTime',
+  Double, 7063.72]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartInvoluntaryContextSwitches',
+  LongLong, 4580]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartCpuTime',
+  Double, 7063.72]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartUserTime',
+  Double, 6943.255191]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartMinorPageFaults',
+  LongLong, 10222321]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadPixelBoxEndSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astromRefObjLoader.loadSkyCircleStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndInvoluntaryContextSwitches',
+  LongLong, 4580]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndMinorPageFaults',
+  LongLong, 10221875]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndUserTime',
+  Double, 6943.068605]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndUtc',
+  String, '2018-09-07T22:55:25.669989']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartInvoluntaryContextSwitches',
+  LongLong, 4567]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndSystemTime',
+  Double, 120.47309]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartSystemTime',
+  Double, 116.739472]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartUserTime',
+  Double, 6926.724343]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartCpuTime',
+  Double, 7043.45]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndCpuTime',
+  Double, 7063.53]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartUtc',
+  String, '2018-09-07T22:55:05.590012']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartMinorPageFaults',
+  LongLong, 10121456]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:measurement.runStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndInvoluntaryContextSwitches',
+  LongLong, 4567]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndMinorPageFaults',
+  LongLong, 10121456]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndSystemTime',
+  Double, 116.739472]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndCpuTime',
+  Double, 7043.45]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndUtc', String,
+  '2018-09-07T22:55:05.589874']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndMinorPageFaults',
+  LongLong, 10121455]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartMinorPageFaults',
+  LongLong, 10120474]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndInvoluntaryContextSwitches',
+  LongLong, 4567]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndSystemTime',
+  Double, 116.739472]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartUtc', String,
+  '2018-09-07T22:55:04.679112']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndCpuTime',
+  Double, 7043.45]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartCpuTime',
+  Double, 7042.54]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartSystemTime',
+  Double, 116.73547]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartInvoluntaryContextSwitches',
+  LongLong, 4567]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartCpuTime',
+  Double, 7042.54]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartSystemTime',
+  Double, 116.73547]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndUserTime',
+  Double, 6926.724205]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartUserTime',
+  Double, 6925.817538]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartInvoluntaryContextSwitches',
+  LongLong, 4567]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartUtc',
+  String, '2018-09-07T22:55:04.679299']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartUserTime',
+  Double, 6925.817724]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndUserTime',
+  Double, 6926.723986]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendEndUtc',
+  String, '2018-09-07T22:55:05.589647']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.runStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartMinorPageFaults',
+  LongLong, 10120480]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:deblend.deblendStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartMinorPageFaults',
+  LongLong, 10114855]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndSystemTime',
+  Double, 120.581137]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndMinorPageFaults',
+  LongLong, 10226952]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndInvoluntaryContextSwitches',
+  LongLong, 4586]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.MAGZERO', Double, 26.93236037024152]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndVoluntaryContextSwitches',
+  LongLong, 41271]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartUserTime',
+  Double, 6924.010293]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartSystemTime',
+  Double, 116.654482]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndUtc', String,
+  '2018-09-07T22:55:38.311252']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndCpuTime', Double,
+  7076.15]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartCpuTime',
+  Double, 7040.66]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndUserTime',
+  Double, 6955.575709]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartUtc', String,
+  '2018-09-07T22:55:02.790683']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefStartInvoluntaryContextSwitches',
+  LongLong, 4566]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate.runDataRefEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndInvoluntaryContextSwitches',
+  LongLong, 4566]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndSystemTime',
+  Double, 116.654475]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndUserTime',
+  Double, 6924.009912]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndUtc', String,
+  '2018-09-07T22:55:02.790285']
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndVoluntaryContextSwitches',
+  LongLong, 41209]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndBlockOutputs', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndMinorPageFaults',
+  LongLong, 10114835]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndBlockInputs', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndSystemTime', Double,
+  116.640497]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndUserTime', Double,
+  6923.821777]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartUserTime', Double,
+  6810.020936]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartBlockInputs', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartCpuTime', Double,
+  6913.49]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartSystemTime',
+  Double, 103.473803]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndMajorPageFaults
+  - LongLong
+  - [0, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartUtc', String, '2018-09-07T22:52:55.605409']
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndMinorPageFaults',
+  LongLong, 10114331]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartUserTime',
+  Double, 6810.020923]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartMinorPageFaults',
+  LongLong, 9765707]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartVoluntaryContextSwitches',
+  LongLong, 41205]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartVoluntaryContextSwitches',
+  LongLong, 41205]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndCpuTime
+  - Double
+  - [6967.27, 7007.37]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartUtc', String,
+  '2018-09-07T22:52:55.604384']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartCpuTime',
+  Double, 6913.49]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndCpuTime', Double,
+  7040.65]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartSystemTime', Double,
+  103.474803]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartBlockOutputs', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndInvoluntaryContextSwitches',
+  LongLong, 4566]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartMinorPageFaults
+  - LongLong
+  - [9765710, 9880358]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartInvoluntaryContextSwitches',
+  LongLong, 4506]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartMajorPageFaults
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndUserTime
+  - Double
+  - [6859.372631, 6895.001715]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndVoluntaryContextSwitches
+  - LongLong
+  - [41207, 41209]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndCpuTime', Double,
+  7040.46]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartInvoluntaryContextSwitches',
+  LongLong, 4506]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartUtc
+  - String
+  - ['2018-09-07T22:52:55.993139', '2018-09-07T22:53:49.642056']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartCpuTime
+  - Double
+  - [6913.87, 6967.52]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runEndUtc', String, '2018-09-07T22:55:02.585320']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndBlockOutputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartSystemTime
+  - Double
+  - [103.474803, 107.930352]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartUserTime
+  - Double
+  - [6810.408627, 6859.59624]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartBlockInputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartBlockOutputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfStartInvoluntaryContextSwitches
+  - LongLong
+  - [4507, 4541]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndUtc
+  - String
+  - ['2018-09-07T22:53:49.391438', '2018-09-07T22:54:29.497271']
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runStartMinorPageFaults',
+  LongLong, 9765710]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndSystemTime
+  - Double
+  - [107.90336, 112.375913]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage.runDataRefStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndMinorPageFaults
+  - LongLong
+  - [9878253, 9999186]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndBlockInputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage.detectMeasureAndEstimatePsfEndInvoluntaryContextSwitches
+  - LongLong
+  - [4541, 4554]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndInvoluntaryContextSwitches',
+  LongLong, 4506]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndUserTime',
+  Double, 6808.796818]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndCpuTime',
+  Double, 6912.22]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndUtc', String,
+  '2018-09-07T22:52:54.338194']
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartInvoluntaryContextSwitches',
+  LongLong, 4506]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartSystemTime',
+  Double, 103.432799]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartUserTime',
+  Double, 6808.796477]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartVoluntaryContextSwitches',
+  LongLong, 41201]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartCpuTime',
+  Double, 6912.22]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndVoluntaryContextSwitches',
+  LongLong, 41201]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndMinorPageFaults',
+  LongLong, 9761853]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartUtc', String,
+  '2018-09-07T22:52:54.337831']
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefEndSystemTime',
+  Double, 103.432799]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartMinorPageFaults',
+  LongLong, 9761853]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:isr:fringe.runDataRefStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndInvoluntaryContextSwitches',
+  LongLong, 4566]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndMinorPageFaults',
+  LongLong, 10114317]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndUserTime',
+  Double, 6923.821508]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndUtc',
+  String, '2018-09-07T22:55:02.585040']
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartInvoluntaryContextSwitches',
+  LongLong, 4566]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndSystemTime',
+  Double, 116.640497]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartSystemTime',
+  Double, 116.640497]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartUserTime',
+  Double, 6923.815155]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartCpuTime',
+  Double, 7040.45]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndVoluntaryContextSwitches',
+  LongLong, 41209]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndCpuTime',
+  Double, 7040.46]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartUtc',
+  String, '2018-09-07T22:55:02.578684']
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartMinorPageFaults',
+  LongLong, 10114270]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:catalogCalculation.runStartVoluntaryContextSwitches',
+  LongLong, 41209]
+- !!python/tuple ['singleFrameDriver:processCcd:isr.NUMNANS', Int, 0]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndInvoluntaryContextSwitches',
+  LongLong, 4586]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndBlockOutputs', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndMajorPageFaults', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndUserTime', Double, 6955.575987]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndCpuTime', Double, 7076.15]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndUtc', String, '2018-09-07T22:55:38.311543']
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartInvoluntaryContextSwitches',
+  LongLong, 4497]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartSystemTime', Double,
+  102.562878]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartUserTime', Double,
+  6788.128056]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartVoluntaryContextSwitches',
+  LongLong, 41164]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartCpuTime', Double, 6890.68]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndVoluntaryContextSwitches',
+  LongLong, 41271]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartBlockInputs', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndBlockInputs', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndMinorPageFaults', LongLong,
+  10226974]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartUtc', String, '2018-09-07T22:52:32.655105']
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefEndSystemTime', Double,
+  120.581142]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartMinorPageFaults', LongLong,
+  9692808]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartMajorPageFaults', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd.runDataRefStartBlockOutputs', LongLong,
+  0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndInvoluntaryContextSwitches',
+  LongLong, 4585]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndMinorPageFaults',
+  LongLong, 10223027]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndInvoluntaryContextSwitches',
+  LongLong, 4585]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndUserTime',
+  Double, 6953.181857]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndCpuTime',
+  Double, 7073.65]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndUserTime',
+  Double, 6953.181704]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartMinorPageFaults',
+  LongLong, 10222215]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartCpuTime',
+  Double, 7063.72]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartUserTime',
+  Double, 6943.254174]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartUserTime',
+  Double, 6943.254359]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartCpuTime',
+  Double, 7063.72]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndCpuTime
+  - Double
+  - [7073.28, 7073.46, 7073.65]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndMinorPageFaults',
+  LongLong, 10223027]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndSystemTime
+  - Double
+  - [120.473104, 120.473104, 120.473104]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartUtc',
+  String, '2018-09-07T22:55:25.855609']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndVoluntaryContextSwitches
+  - LongLong
+  - [41217, 41217, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartInvoluntaryContextSwitches
+  - LongLong
+  - [4581, 4585, 4585]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndUtc',
+  String, '2018-09-07T22:55:35.784171']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartUtc',
+  String, '2018-09-07T22:55:25.855797']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartInvoluntaryContextSwitches',
+  LongLong, 4580]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndInvoluntaryContextSwitches
+  - LongLong
+  - [4585, 4585, 4585]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartInvoluntaryContextSwitches',
+  LongLong, 4580]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartUtc
+  - String
+  - ['2018-09-07T22:55:26.320149', '2018-09-07T22:55:35.421138', '2018-09-07T22:55:35.602565']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartCpuTime
+  - Double
+  - [7064.18, 7073.28, 7073.47]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runEndUtc', String,
+  '2018-09-07T22:55:35.784325']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartUserTime
+  - Double
+  - [6943.718649, 6952.818707, 6953.000117]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartSystemTime
+  - Double
+  - [120.473104, 120.473104, 120.473104]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartMinorPageFaults
+  - LongLong
+  - [10222850, 10223021, 10223024]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartMinorPageFaults',
+  LongLong, 10222201]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndUserTime
+  - Double
+  - [6952.818424, 6952.999849, 6953.180838]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsStartVoluntaryContextSwitches
+  - LongLong
+  - [41217, 41217, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndUtc
+  - String
+  - ['2018-09-07T22:55:35.420850', '2018-09-07T22:55:35.602298', '2018-09-07T22:55:35.783306']
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.runStartSystemTime',
+  Double, 120.473102]
+- !!python/tuple
+  - singleFrameDriver:processCcd:calibrate:astrometry._matchAndFitWcsEndMinorPageFaults
+  - LongLong
+  - [10223007, 10223024, 10223027]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:astrometry.solveEndCpuTime',
+  Double, 7073.65]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndInvoluntaryContextSwitches
+  - LongLong
+  - [4507, 4541, 4554]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndMinorPageFaults
+  - LongLong
+  - [9765947, 9881008, 10002679]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndUserTime
+  - Double
+  - [6810.674161, 6859.883582, 6895.645536]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndUtc
+  - String
+  - ['2018-09-07T22:52:56.265705', '2018-09-07T22:53:49.945433', '2018-09-07T22:54:30.180148']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartInvoluntaryContextSwitches
+  - LongLong
+  - [4507, 4541, 4554]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndSystemTime
+  - Double
+  - [103.481807, 107.946356, 112.414908]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartSystemTime
+  - Double
+  - [103.474808, 107.931167, 112.401915]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartUserTime
+  - Double
+  - [6810.409158, 6859.59624, 6895.365013]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartCpuTime
+  - Double
+  - [6913.87, 6967.52, 7007.76]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207, 41209]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndCpuTime
+  - Double
+  - [6914.15, 6967.82, 7008.05]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartUtc
+  - String
+  - ['2018-09-07T22:52:55.993683', '2018-09-07T22:53:49.642876', '2018-09-07T22:54:29.886603']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartMinorPageFaults
+  - LongLong
+  - [9765710, 9880367, 10001991]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runEndBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:repair.runStartVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207, 41209]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndInvoluntaryContextSwitches',
+  LongLong, 4567]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndMinorPageFaults',
+  LongLong, 10120459]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartUserTime',
+  Double, 6924.011661]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndUserTime',
+  Double, 6925.81592]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartCpuTime',
+  Double, 7040.66]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartUtc',
+  String, '2018-09-07T22:55:02.792053']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartInvoluntaryContextSwitches',
+  LongLong, 4566]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartUserTime',
+  Double, 6924.011463]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndUserTime',
+  Double, 6925.817291]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartInvoluntaryContextSwitches',
+  LongLong, 4566]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartSystemTime',
+  Double, 116.654483]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartCpuTime',
+  Double, 7040.66]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.sigma', Double,
+  2.9713358892570865]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartMinorPageFaults',
+  LongLong, 10114921]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartUtc',
+  String, '2018-09-07T22:55:02.791848']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartMinorPageFaults',
+  LongLong, 10114914]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.doSmooth', Bool,
+  true]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndCpuTime',
+  Double, 7042.54]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartSystemTime',
+  Double, 116.654483]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.smoothingKernelWidth',
+  Int, 21]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.nGrow', Int, 7]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndUtc',
+  String, '2018-09-07T22:55:04.677480']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndInvoluntaryContextSwitches',
+  LongLong, 4567]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndCpuTime',
+  Double, 7042.54]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndSystemTime',
+  Double, 116.73547]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndMinorPageFaults',
+  LongLong, 10120455]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndUtc', String,
+  '2018-09-07T22:55:04.678865']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.detectFootprintsStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndSystemTime',
+  Double, 116.73547]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:detection.runEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndInvoluntaryContextSwitches',
+  LongLong, 4580]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndMinorPageFaults',
+  LongLong, 10222122]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndUserTime',
+  Double, 6943.24731]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndUtc',
+  String, '2018-09-07T22:55:25.848744']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartInvoluntaryContextSwitches',
+  LongLong, 4580]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndSystemTime',
+  Double, 120.473102]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartSystemTime',
+  Double, 120.473091]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartUserTime',
+  Double, 6943.218598]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartCpuTime',
+  Double, 7063.68]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndCpuTime',
+  Double, 7063.71]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartUtc',
+  String, '2018-09-07T22:55:25.820018']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartMinorPageFaults',
+  LongLong, 10222081]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:catalogCalculation.runStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndInvoluntaryContextSwitches
+  - LongLong
+  - [4541, 4554]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndBlockOutputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndMajorPageFaults
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndBlockInputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:measurePsf.numAvailStars',
+  Int, 70]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartBlockOutputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:measurePsf.spatialFitChi2',
+  Double, .nan]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartMinorPageFaults
+  - LongLong
+  - [9875392, 9996883]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartUtc
+  - String
+  - ['2018-09-07T22:53:48.597102', '2018-09-07T22:54:28.726997']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndVoluntaryContextSwitches
+  - LongLong
+  - [41207, 41209]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartMajorPageFaults
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndCpuTime
+  - Double
+  - [6967.27, 7007.37]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartBlockInputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartCpuTime
+  - Double
+  - [6966.47, 7006.6]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartSystemTime
+  - Double
+  - [107.884366, 112.35492]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndSystemTime
+  - Double
+  - [107.903354, 112.375908]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:measurePsf.numGoodStars',
+  Int, 67]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:measurePsf.avgX', Double,
+  807.3327588480322]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:measurePsf.avgY', Double,
+  1289.8740600679894]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndUtc
+  - String
+  - ['2018-09-07T22:53:49.391029', '2018-09-07T22:54:29.496939']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartUserTime
+  - Double
+  - [6858.597463, 6894.252593]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runStartInvoluntaryContextSwitches
+  - LongLong
+  - [4540, 4553]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndUserTime
+  - Double
+  - [6859.372236, 6895.001395]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndMinorPageFaults
+  - LongLong
+  - [9878238, 9999171]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurePsf.runEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndInvoluntaryContextSwitches',
+  LongLong, 4586]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndUserTime',
+  Double, 6953.544384]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndCpuTime',
+  Double, 7074.01]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartCpuTime',
+  Double, 7073.66]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndMinorPageFaults',
+  LongLong, 10223103]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartMinorPageFaults',
+  LongLong, 10223091]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartUserTime',
+  Double, 6953.191986]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartUtc',
+  String, '2018-09-07T22:55:35.794453']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndUtc',
+  String, '2018-09-07T22:55:36.146891']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartInvoluntaryContextSwitches',
+  LongLong, 4585]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleEndSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoRefObjLoader.loadSkyCircleStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndInvoluntaryContextSwitches
+  - LongLong
+  - [4507, 4541]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartBlockInputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndBlockOutputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartMajorPageFaults
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndMinorPageFaults
+  - LongLong
+  - [9769851, 9884988]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartUserTime
+  - Double
+  - [6810.674969, 6859.884571]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndUserTime
+  - Double
+  - [6812.570868, 6861.59164]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndBlockInputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartCpuTime
+  - Double
+  - [6914.15, 6967.82]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartUtc
+  - String
+  - ['2018-09-07T22:52:56.266522', '2018-09-07T22:53:49.946435']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartInvoluntaryContextSwitches
+  - LongLong
+  - [4507, 4541]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartUserTime
+  - Double
+  - [6810.674805, 6859.884362]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndUserTime
+  - Double
+  - [6812.571684, 6861.592354]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartInvoluntaryContextSwitches
+  - LongLong
+  - [4507, 4541]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartSystemTime
+  - Double
+  - [103.481807, 107.946356]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartCpuTime
+  - Double
+  - [6914.15, 6967.82]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:detection.sigma', Double,
+  2.9679340946228043]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartBlockInputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartMinorPageFaults
+  - LongLong
+  - [9765949, 9881025]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndBlockOutputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartUtc
+  - String
+  - ['2018-09-07T22:52:56.266355', '2018-09-07T22:53:49.946217']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartMinorPageFaults
+  - LongLong
+  - [9765949, 9881020]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:detection.doSmooth', Bool,
+  true]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndCpuTime
+  - Double
+  - [6916.09, 6969.6]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartSystemTime
+  - Double
+  - [103.481807, 107.946356]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartBlockOutputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartBlockOutputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:detection.smoothingKernelWidth',
+  Int, 21]
+- !!python/tuple ['singleFrameDriver:processCcd:charImage:detection.nGrow', Int, 7]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndUtc
+  - String
+  - ['2018-09-07T22:52:58.210597', '2018-09-07T22:53:51.721667']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndInvoluntaryContextSwitches
+  - LongLong
+  - [4507, 4541]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndCpuTime
+  - Double
+  - [6916.09, 6969.6]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndSystemTime
+  - Double
+  - [103.529801, 108.014353]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndMinorPageFaults
+  - LongLong
+  - [9769850, 9884984]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runStartMajorPageFaults
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndMajorPageFaults
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsEndBlockInputs
+  - LongLong
+  - [0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndUtc
+  - String
+  - ['2018-09-07T22:52:58.211424', '2018-09-07T22:53:51.722392']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.detectFootprintsStartVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndSystemTime
+  - Double
+  - [103.529801, 108.014353]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:detection.runEndMajorPageFaults
+  - LongLong
+  - [0, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndMinorPageFaults',
+  LongLong, 10223276]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndUtc', String,
+  '2018-09-07T22:55:36.154399']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndInvoluntaryContextSwitches',
+  LongLong, 4586]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndMinorPageFaults',
+  LongLong, 10223187]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndCpuTime',
+  Double, 7074.01]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndCpuTime',
+  Double, 7074.02]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndUtc',
+  String, '2018-09-07T22:55:36.151135']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartMinorPageFaults',
+  LongLong, 10223032]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndInvoluntaryContextSwitches',
+  LongLong, 4586]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartUserTime',
+  Double, 6953.546999]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartUtc', String,
+  '2018-09-07T22:55:35.784466']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndMajorPageFaults',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysEndUserTime',
+  Double, 6953.548626]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartBlockOutputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartUtc',
+  String, '2018-09-07T22:55:36.149507']
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runEndUserTime',
+  Double, 6953.55189]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartUserTime',
+  Double, 6953.181998]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartInvoluntaryContextSwitches',
+  LongLong, 4585]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartCpuTime',
+  Double, 7074.01]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.runStartCpuTime',
+  Double, 7073.65]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartSystemTime',
+  Double, 120.473104]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartMaxResidentSetSize',
+  LongLong, 1962424]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartMinorPageFaults',
+  LongLong, 10223141]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartBlockInputs',
+  LongLong, 0]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartVoluntaryContextSwitches',
+  LongLong, 41217]
+- !!python/tuple ['singleFrameDriver:processCcd:calibrate:photoCal.extractMagArraysStartInvoluntaryContextSwitches',
+  LongLong, 4586]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndInvoluntaryContextSwitches
+  - LongLong
+  - [4540, 4553, 4566]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndMinorPageFaults
+  - LongLong
+  - [9875262, 9996757, 10113828]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndUserTime
+  - Double
+  - [6858.596948, 6894.252122, 6923.533488]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndUtc
+  - String
+  - ['2018-09-07T22:53:48.596572', '2018-09-07T22:54:28.726506', '2018-09-07T22:55:02.295968']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartInvoluntaryContextSwitches
+  - LongLong
+  - [4507, 4541, 4554]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndSystemTime
+  - Double
+  - [107.884366, 112.35492, 116.639485]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartSystemTime
+  - Double
+  - [103.529802, 108.014353, 112.414911]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartUserTime
+  - Double
+  - [6812.571936, 6861.592592, 6895.645809]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartCpuTime
+  - Double
+  - [6916.09, 6969.6, 7008.05]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207, 41209]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndCpuTime
+  - Double
+  - [6966.47, 7006.6, 7040.16]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartMajorPageFaults
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartMaxResidentSetSize
+  - LongLong
+  - [1962424, 1962424, 1962424]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartUtc
+  - String
+  - ['2018-09-07T22:52:58.211678', '2018-09-07T22:53:51.722630', '2018-09-07T22:54:30.180434']
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartMinorPageFaults
+  - LongLong
+  - [9769851, 9884993, 10002680]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartBlockOutputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runEndBlockInputs
+  - LongLong
+  - [0, 0, 0]
+- !!python/tuple
+  - singleFrameDriver:processCcd:charImage:measurement.runStartVoluntaryContextSwitches
+  - LongLong
+  - [41205, 41207, 41209]
