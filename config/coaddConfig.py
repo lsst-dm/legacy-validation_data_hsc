@@ -1,8 +1,11 @@
-# Apply meas_mosaic ubercal results to input calexps?
-config.makeCoaddTempExp.doApplyUberCal=False
+# Apply external calibration results to input calexps?
+config.makeCoaddTempExp.doApplyExternalPhotoCalib=False
+config.makeCoaddTempExp.doApplyExternalSkyWcs=False
 config.makeCoaddTempExp.doApplySkyCorr=False
 
-config.assembleCoadd.doApplyUberCal=False 
-config.assembleCoadd.assembleStaticSkyModel.doApplyUberCal=False
+config.assembleCoadd.doApplyExternalPhotoCalib=False
+config.assembleCoadd.doApplyExternalSkyWcs=False
+config.assembleCoadd.assembleStaticSkyModel.doApplyExternalPhotoCalib=False
+config.assembleCoadd.assembleStaticSkyModel.doApplyExternalSkyWcs=False
 
 config.assembleCoadd.doAttachTransmissionCurve=False
