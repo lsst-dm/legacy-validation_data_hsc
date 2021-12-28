@@ -1,3 +1,6 @@
+*WARNING:* This package is deprecated, and will be removed from the Rubin Observatory Science Pipelines distribution after release 23.0.0.
+The datasets included here are not supported in gen3 and will not be converted to gen3 format.
+
 =======================
 ``validation_data_hsc``
 =======================
